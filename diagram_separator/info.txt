@@ -1,0 +1,1 @@
+Separates diagram(s) from a image.
