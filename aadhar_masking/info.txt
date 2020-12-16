@@ -1,0 +1,1 @@
+The code will mask first 8 digits of Aadhar card.
